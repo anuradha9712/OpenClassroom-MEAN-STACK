@@ -2,7 +2,12 @@
 ## using MEAN STACK
 
 ### TO run frontend--> 
-ng serve
+- npm install -g @angular/cli
+- git clone https://github.com/OpenClassrooms-Student-Center/5614116-front-end-app.git frontend
+- cd frontend
+- npm install
+- ng serve
+
 ### TO run backend --> 
 nodemon server
 ### database used--> 
